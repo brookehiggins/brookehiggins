@@ -22,7 +22,11 @@ Users can update info live and paste the generated preview directly into Gmail. 
 ## 🛠 Tech
 - HTML / CSS / JavaScript  
 - Git / GitHub Pages  
-- MathJax, Chart.js  
+- MathJax, Chart.js
+
+
+### 📈 Stats & Stuff
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brookehiggins&layout=compact&theme=radical)
 
 ## 📫 Say hi
 - [GitHub](https://github.com/brookehiggins) (you're already here, hi)
